@@ -1,0 +1,6 @@
+//Microsoft Visual C++ generated resource script.
+//
+#include "windows.h"
+
+IDI_WURMLAUNCH       ICON         "wurm_icon.ico"
+IDI_SMALL            ICON         "wurm_icon.ico"
